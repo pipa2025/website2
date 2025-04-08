@@ -1,0 +1,5 @@
+theme: minima
+title: PIPA 2025
+description: Partially ionized plasmas in astrophysics 
+header_pages:
+  - index.md
