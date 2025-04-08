@@ -202,6 +202,7 @@ The details of the program will be posted soon.
 Bergen is a beautiful city by the fjords, surrounded by majestic mountains.
 A walking tour over Bergen of approximately 3 hour duration will be organized in the afternoon on Wednesday, September 3rd.
 
+## Conference dinner
 A conference dinner will be organized. The place and time of the dinner will be posted soon.
 
 Tourist information about Bergen can be found [online](https://www.visitbergen.com/).
